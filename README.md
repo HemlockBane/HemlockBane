@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Flutter and Android projects
 - 🤔 I’m looking for help with data modelling and system design
 - 💬 Ask me about stuff related to mobile development 
-- 📫 How to reach me: [email](mailto:obinna.igwe.dev@gmail.com)
+- 📫 How to reach me: [Email](mailto:obinna.igwe.dev@gmail.com), [LinkedIn](https://www.linkedin.com/in/obinna-igwe/)
 - ⚡ Fun fact: You can also call me Odogwu
 
 <!--
