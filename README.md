@@ -1,4 +1,13 @@
-### Hi there 👋
+### 👋 Hi there! Everyone calls me Obinna
+
+### ... but you can call me Obi
+
+- 🔭 I’m currently working on a Podcast mobile app built with Flutter
+- 👯 I’m looking to collaborate on Flutter and Android projects
+- 🤔 I’m looking for help with data modelling and system design
+- 💬 Ask me about stuff related to mobile development 
+- 📫 How to reach me: [email](mailto:obinna.igwe.dev@gmail.com)
+- ⚡ Fun fact: You can also call me Odogwu
 
 <!--
 **HemlockBane/HemlockBane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
